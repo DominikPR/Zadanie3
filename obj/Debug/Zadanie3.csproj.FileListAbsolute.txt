@@ -1,0 +1,34 @@
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\MainWindow.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\App.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3_MarkupCompile.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3_MarkupCompile.lref
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\bin\Debug\Zadanie3.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\bin\Debug\Zadanie3.pdb
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\MainWindow.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.g.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\OknoSzczegółów.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie\Zadanie3\obj\Debug\OknoSzczegółów.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\bin\Debug\Zadanie3.exe.config
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\bin\Debug\Zadanie3.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\bin\Debug\Zadanie3.pdb
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\MainWindow.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\OknoSzczegółów.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\App.g.cs
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3_MarkupCompile.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3_MarkupCompile.lref
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\MainWindow.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\OknoSzczegółów.baml
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.g.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.exe
+D:\Studia WSB\IV semestr\programowanie .NET\zadania na zajeciach\Zaliczenie dla ziomka\Zadanie3\obj\Debug\Zadanie3.pdb
